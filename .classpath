@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/bcpkix-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/bcprov-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/bcutil-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/fontbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/graphics2d-0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/pdfbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/Jars/xmlsec-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/ooxml-lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/ooxml-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/ooxml-lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/ooxml-lib/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d970673/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
